@@ -1,0 +1,13 @@
+name: nnia
+channels:
+- defaults
+dependencies:
+- python=3.6.2
+- jupyter
+- numpy
+- pandas
+- scikit-learn
+- scipy
+- matplotlib
+- tensorflow
+
