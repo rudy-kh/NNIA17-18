@@ -10,3 +10,5 @@ Check README.pdf to see how to setup the environment
 [fast.ai MooC](http://course.fast.ai/).
 
 [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) of Stanford (notes, homeworks and videos of lectures included).
+
+[git cheat sheet](https://www.evernote.com/shard/s719/sh/e2fbf87f-f923-4f74-b8b4-05fc8201907e/be29316074a009d2)
